@@ -1,0 +1,184 @@
+[
+  {
+    "query": "Rajamangala University of Technology Thanyaburi logo transparent background",
+    "image_info": {
+      "url": "https://www.eng.rmutt.ac.th/wp-content/uploads/2017/10/Logo-RMUTT-eng.gif",
+      "img_format": "GIF",
+      "mode": "P",
+      "file_size": 15339,
+      "width": 450,
+      "height": 150,
+      "total_pixels": 67500,
+      "basic_score": 0.5975979581267751,
+      "file_name": "RMUTT_Rajamangala_University_Technology_Thanyaburi_Logo.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is an exact match for the search query, displaying the full logo including the emblem, acronym, and text. While the background appears to be white rather than transparent (as requested in the specific prompt), the image is clean, high-resolution, and perfectly usable for identification purposes. There are no watermarks.",
+      "file_name": "RMUTT_Rajamangala_University_Technology_Thanyaburi_Logo.jpg",
+      "caption": "The official logo of Rajamangala University of Technology Thanyaburi (RMUTT), featuring the intricate royal emblem on the left, the stylized acronym 'RMUTT' in navy blue and grey, the website URL, and the university name in Thai script.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "modern clean office desk workspace blue and white aesthetic",
+    "image_info": {
+      "url": "https://www.shutterstock.com/image-illustration/corner-view-blue-office-interior-600nw-2532873323.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 46483,
+      "width": 600,
+      "height": 400,
+      "total_pixels": 240000,
+      "basic_score": 0.7655764284211577,
+      "file_name": "modern-blue-white-open-office-workspace-city-view.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly embodies the 'modern office workspace blue white' query. It features a distinct blue industrial ceiling, matching blue chairs, and a large blue feature wall, contrasted with clean white desks and cabinets. The inclusion of a large blank wall area makes it exceptionally useful for design purposes (copy space). The image is sharp, well-lit, and watermark-free.",
+      "file_name": "modern-blue-white-open-office-workspace-city-view.jpg",
+      "caption": "A modern open-plan office interior featuring an industrial blue ceiling, sleek white desks with computer monitors, blue office chairs, and floor-to-ceiling windows overlooking a city skyline. A large blank blue wall on the right provides ample space for text or branding.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "modern clean office desk workspace blue and white aesthetic",
+    "image_info": {
+      "url": "https://images.pexels.com/photos/6794934/pexels-photo-6794934.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 124387,
+      "width": 1123,
+      "height": 750,
+      "total_pixels": 842250,
+      "basic_score": 0.926638175636052,
+      "file_name": "modern-blue-white-office-workspace-industrial-ceiling.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image aligns perfectly with the search query, featuring a modern office layout with a distinct blue (ceiling, chairs, glass details) and white (walls, desks, cabinets) color scheme. The industrial-chic aesthetic with exposed pipes adds a contemporary feel. The image is sharp, well-lit with a mix of natural and artificial light, and professionally composed.",
+      "file_name": "modern-blue-white-office-workspace-industrial-ceiling.jpg",
+      "caption": "A modern office interior featuring an industrial-style ceiling painted dark blue, contrasted with white walls and desks. The workspace includes ergonomic chairs with blue seats, tall white storage lockers, and a glass-enclosed meeting room, all naturally lit by large windows overlooking greenery.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "modern clean office desk workspace blue and white aesthetic",
+    "image_info": {
+      "url": "https://thumbs.dreamstime.com/b/sleek-white-desks-vibrant-blue-dividers-create-bright-airy-workspace-modern-office-chairs-add-to-clean-contemporary-feel-354466524.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 41221,
+      "width": 800,
+      "height": 457,
+      "total_pixels": 365600,
+      "basic_score": 0.8085278039282308,
+      "file_name": "modern_blue_white_open_plan_office.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 70.0,
+      "overall_score": 85.0,
+      "explanation": "The image is an excellent visual match for the search query, perfectly adhering to the 'blue and white' modern office aesthetic. The lighting is bright and professional, and the composition effectively showcases an open-plan workspace. However, there is a visible stock photo watermark pattern on the glass partition to the left, which affects usability without licensing.",
+      "file_name": "modern_blue_white_open_plan_office.jpg",
+      "caption": "A spacious, modern open-plan office featuring sleek white desks with vibrant blue privacy dividers, ergonomic black chairs, and floor-to-ceiling windows providing ample natural light.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "professional business analyst working with data minimalist blue background",
+    "image_info": {
+      "url": "https://static.vecteezy.com/system/resources/previews/043/344/346/non_2x/abstract-clean-blue-white-business-technology-background-vector.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 63184,
+      "width": 1742,
+      "height": 980,
+      "total_pixels": 1707160,
+      "basic_score": 0.819952373765479,
+      "file_name": "abstract_blue_white_geometric_business_background.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is an excellent match for the search query 'abstract background blue white', featuring a professional geometric design suitable for corporate presentations. While it does not literally depict a 'business analyst working' as described in the prompt, it perfectly fulfills the need for a minimalist background appropriate for business data contexts.",
+      "file_name": "abstract_blue_white_geometric_business_background.jpg",
+      "caption": "A minimalist abstract background featuring overlapping blue and white geometric shapes, including squares and spheres, with soft shadows creating a clean depth effect suitable for business themes.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "MK Restaurant Group logo transparent background",
+    "image_info": {
+      "url": "https://mesa.vn/wp-content/uploads/2021/06/MK.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 31939,
+      "width": 770,
+      "height": 434,
+      "total_pixels": 334180,
+      "basic_score": 0.7868764956504927,
+      "file_name": "mk-restaurants-logo-vietnam-black-bg.png"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image clearly depicts the MK Restaurants logo with high resolution and sharp edges. It is highly relevant to the brand search, though it features a specific Vietnamese tagline ('NHÀ HÀNG LẨU TƯƠI') rather than the generic corporate English-only version. The background is solid black, which provides high contrast but is not visually transparent in this preview, though it may be a transparent file rendered on black.",
+      "file_name": "mk-restaurants-logo-vietnam-black-bg.png",
+      "caption": "The logo for MK Restaurants featuring the iconic red stylized 'MK' letters, a green bar with 'RESTAURANTS' in white, and the Vietnamese subtitle 'NHÀ HÀNG LẨU TƯƠI' on a black background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "MK Restaurant Group logo transparent background",
+    "image_info": {
+      "url": "https://www.plenus.co.jp/img/english/logo-mk.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 22737,
+      "width": 1000,
+      "height": 291,
+      "total_pixels": 291000,
+      "basic_score": 0.7286356187863019,
+      "file_name": "mk-restaurants-official-logo.png"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly identifies the brand requested in the search query, featuring the official logo with sharp lines and accurate colors. Although the prompt requested a transparent background and this image appears to have a solid white background, the contrast is high enough for easy isolation. There are no external watermarks.",
+      "file_name": "mk-restaurants-official-logo.png",
+      "caption": "The official logo of MK Restaurants, featuring large, stylized red 'MK' lettering in a brushstroke style above a green rectangular bar containing the word 'RESTAURANTS' in white sans-serif text.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
